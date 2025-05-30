@@ -35,3 +35,4 @@ software-properties-common
 conky-all
 lua5.4
 jq
+conky-manager
