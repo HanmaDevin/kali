@@ -31,3 +31,7 @@ calc
 gdb
 xfce4-weather-plugin
 xfce4-docklike-plugin
+software-properties-common
+conky-all
+lua5.4
+jq
