@@ -1,6 +1,5 @@
 gum
 golang
-layzgit
 zip
 libreoffice
 fastfetch
@@ -36,3 +35,4 @@ conky-all
 lua5.4
 jq
 conky-manager
+lazygit
